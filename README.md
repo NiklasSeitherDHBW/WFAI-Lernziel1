@@ -1,7 +1,8 @@
 # WFAI-Lernziel 1
 
-This project is designed to download and analyze papers from arXiv in AI and ML related fields to derive trends and discuss social implications. It includes Jupyter notebooks for data analysis and visualization.
-
+This project is designed to download and analyze papers from arXiv in Artificial Intelligence (AI) and Machine Learning (ML) related fields to derive trends and discuss social implications. It includes Jupyter notebooks for data analysis and visualization.
+ The complete_arxiv_papers.csv dataset comprises all papers related to AI and ML uploaded to arXiv from 1994 through December 2024. 
+ 
 ## Contributors
 - Yannick Königstein (9502377)
 - Niklas Seither (4253802)
