@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+matplotlib
+statsmodels
+jupyter
+arxiv
+tqdm
